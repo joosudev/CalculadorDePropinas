@@ -14,6 +14,7 @@
 
 **Cálculos Precisos**: Asegura una precisión en los cálculos de propina con cada transacción.
 
+**Compatibilidad Multiplataforma**: Accede a tu información desde dispositivos móviles, computadoras de escritorio y navegadores web.
 
 ## Tecnologías Stack
 
