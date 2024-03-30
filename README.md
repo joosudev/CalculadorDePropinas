@@ -1,6 +1,6 @@
 # CalculadorDePropina
 
-**Descipcion:**: La Calculadora de Propinas es una aplicación simple y práctica diseñada para ayudarte a calcular fácilmente la propina adecuada en cualquier situación de pago.
+**Descipcion:** La Calculadora de Propinas es una aplicación simple y práctica diseñada para ayudarte a calcular fácilmente la propina adecuada en cualquier situación de pago.
 
 ## Utilización
 
